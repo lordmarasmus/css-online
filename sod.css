@@ -1,6 +1,6 @@
 /* Set background image with a specified height */
 .bg-image {
-    background-image: url('/sccu-app/alerts/public/picture2.png');
+    background-image: url('picture2.png');
     height: 1200px;
   }
   
